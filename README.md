@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz17&layout=donut-vertical&exclude_repo=ros-backup)](https://github.com/sanz17/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz17&langs_count=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz17&layout=donut-vertical&exclude_repo=ros-backup)](https://github.com/sanz17/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=sanz17&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanz17&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz17&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanz17&langs_count=20)
